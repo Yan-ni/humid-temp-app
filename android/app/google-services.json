@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "267876585847",
+    "firebase_url": "https://humidtemp-1dc76-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "humidtemp-1dc76",
+    "storage_bucket": "humidtemp-1dc76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267876585847:android:2373c9df08333bcaa49172",
+        "android_client_info": {
+          "package_name": "com.example.humidtemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUzYwBl4dfBZO5KJfrAOTn36GHRGENdgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267876585847:android:1eed375eb5f4a2a3a49172",
+        "android_client_info": {
+          "package_name": "com.example.humidtempapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUzYwBl4dfBZO5KJfrAOTn36GHRGENdgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
